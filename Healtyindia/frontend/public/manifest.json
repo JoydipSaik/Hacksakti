@@ -1,0 +1,8 @@
+{
+  "short_name": "SCHMEWS",
+  "name": "Smart Community Health Monitoring",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0069c0"
+}
